@@ -1,0 +1,90 @@
+*{
+            margin: 0px;
+            padding: 0px;
+        }
+        .foot{
+            background-color: #253526D9;
+            height: 400px;
+        }
+        #img11{
+            height: 60px;
+            margin: 20px;
+            margin-left: 50px;
+        }
+        .logoandlogin
+        {
+            display:flex;
+        
+        }
+        #abz{
+            width:300px;
+            height:40px;
+            border-color: black;
+            margin-top: 40px;
+            margin-left: 150px;
+
+        }
+        #but{
+            border: 1px;
+            height:45px;
+            margin-top: 40px;
+            padding: 5px;
+            background-color: #13291c;
+            font-size: medium;
+            color: white;
+        }
+        button:hover{
+            font-size:large;
+            
+        }
+        .bc{ 
+            display: block;
+        }.info{
+            height:50px;
+            width:400px;
+            margin-left: 50px;
+            margin-top: 0px;
+            font-size: small;
+            color: white;
+            opacity: 0.5;
+        }
+        .touch{
+            margin-left: 70px;
+            margin-top: 30px;
+            color: white;
+            display: block;
+        }
+        .in{
+            color: white;
+            opacity: 0.6;
+            font-size: small;
+            margin-top: 10px;
+        }
+        
+        hr{
+            margin-top: 30px;
+        }
+        .end1{
+            color: white;
+            opacity: 0.7;
+            margin: 5px;
+            margin-left: 15px;
+            display: flex;
+        }
+
+        .end2{
+            margin-left: 450px;
+        }
+        .mid{
+            display: flex;
+        }
+        #linkk{
+            margin-left: 200px;
+        }
+        .l2{
+            margin-top: 10px;
+        }
+        .l2:hover{
+            opacity:1;
+            
+        }
